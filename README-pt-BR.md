@@ -63,4 +63,4 @@ O ZMEM v3.1 está **fechado em sua arquitetura** e busca um **Parceiro Instituci
 **Para Propostas de Piloto e Visão Estratégica:**
 
 **Alexandre Sah**
-`[Seu Email de Contato]`
+`alexandre.sah@gmail.com`
