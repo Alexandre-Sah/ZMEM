@@ -5,7 +5,7 @@
 
 ---
 
-## 💡 RESUMO EXECUTIVO: ZMEM é Lǐ-Física Fundamental
+## RESUMO EXECUTIVO: ZMEM é Lǐ-Física Fundamental
 
 O Protocolo ZMEM (Zhejiang Multimodal Ethnographic Mapping) é um **framework de ciência fundamental** que quantifica o princípio de **Ordem (Lǐ)** em sistemas complexos. O ZMEM estabelece a ponte metodológica entre a **continuidade civilizacional de 5.000 anos** (Neolítico de Zhejiang) e as **Constantes Físicas** da Origem do Universo (**Lǐ-Física Fundamental**).
 
@@ -13,7 +13,7 @@ O **rigor inatacável** do ZMEM foi alcançado através da **Bancada de Validaç
 
 ---
 
-## 🛠️ RIGOR TÉCNICO INCONTESTÁVEL
+## RIGOR TÉCNICO INCONTESTÁVEL
 
 O ZMEM é um instrumento de medição. Seu rigor é totalmente auditável (veja a pasta [`metrics/`](metrics/)):
 
@@ -36,7 +36,7 @@ O ZMEM codifica a ética (*Lǐ*) para proteger dados afetivos (veja a pasta [`et
 
 ---
 
-## 🗺️ TRAJETÓRIA ESTRATÉGICA E GEOPOLÍTICA
+## TRAJETÓRIA ESTRATÉGICA E GEOPOLÍTICA
 
 O **Pilot Program na USP** é a calibração final para posicionar o ZMEM como o Padrão de Governança de Dados Culturais da China.
 
@@ -53,7 +53,7 @@ O ZMEM é a solução de blindagem ética para o ecossistema tecnológico e gove
 
 ---
 
-## 🤝 PRÓXIMOS PASSOS E PARCERIAS
+## PRÓXIMOS PASSOS E PARCERIAS
 
 O ZMEM v3.1 está **fechado em sua arquitetura** e busca um **Parceiro Institucional** para o **Ciclo de Calibração Piloto (90 dias)**.
 
