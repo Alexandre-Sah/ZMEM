@@ -1,6 +1,6 @@
 # ZMEM - Zhejiang Multimodal Ethnographic Mapping
 
-**License:** MIT License
+**License:** Apache 2.0
 
 ## Overview
 ZMEM is a complete technical framework for multimodal ethnography with implementable specifications and detailed documentation. Its ethical protocols were designed for Zhejiang communities and await field application through research partnerships.
