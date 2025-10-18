@@ -1,5 +1,5 @@
 # PROTOCOLO ZMEM: Mapeamento Etnográfico Multimodal de Zhejiang
-## Versão: 3.1 (Framework Técnico-Ético Fechado) | Licença: MIT License
+## Versão: 3.1 (Framework Técnico-Ético Fechado) | Licença: Apache 2.0
 
 [English](README.md) | [中文](README-zh-CN.md)
 
